@@ -1,4 +1,4 @@
-# CRM-Application-RiceMill
+# CRM-RiceMill-Application
 The Rice Mill CRM Application streamlines daily operations by tracking rice production, sales, and types, with reports sent to owners. Key features include sales reports, rollup summary fields for rice supplies, cross-object formulas for price calculations, IsBlank validation rules, and role-based access permissions.
 Project Overview:
 The Rice Mill CRM Application is built on Salesforce to streamline daily operations for a wholesale rice mill. It automates daily reports on rice production and sales, helping mill owners track performance and improve efficiency.
